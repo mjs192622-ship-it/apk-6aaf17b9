@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "628263498046",
+        "project_id": "serv-cd16a",
+        "storage_bucket": "serv-cd16a.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:628263498046:android:906f84eeb3f7932b73fc6f",
+                "android_client_info": {
+                    "package_name": "com.serv.hospitality"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBlaxb8dn7nx_ozy_5JReXEEOgyzRGjGX4"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
